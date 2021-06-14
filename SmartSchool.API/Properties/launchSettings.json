@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "SmartSchool.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/aluno",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
